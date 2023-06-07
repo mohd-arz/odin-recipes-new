@@ -2,7 +2,7 @@
 
 If You are seeing this....
   
-Actually I've already done this project on 01-08-2022, 
+Actually I've already done this project on [01-08-2022](https://github.com/mohd-arz/odin-recipes), 
 
 for some reason i dropped the odin curriculum for a while.
   
