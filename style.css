@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+.recipe-container{
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    margin:0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.recipe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+.recipe-container > h1{
+    padding: 20px;
+    text-decoration: underline;
+
+
+}
+.recipe-name{
+    font-weight: bold;
+    font-size: large;
+}
+
+.recipe-headings{
+    padding: 10px 0;
+}
+.recipe-sub-headings{
+    padding:5px 0;
+    text-decoration: underline;
+}
+a{
+    padding-top: 7px;
+}
+
+
